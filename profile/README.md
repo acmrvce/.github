@@ -20,7 +20,8 @@ Uniting tech enthusiasts passionate about coding, development, and learning, Poi
   - 🤖 **Machine Learning Fundamentals**  
   - 🎯 **Placement Preparation**  
   - 🧠 **Data Structures and Algorithms**  
-  - 🌐 **Web & Mobile Development**  
+  - 🌐 **Web & Mobile Development**
+  - **CyberSecurity Workshops** 
 
 ### 🎉 **Hackathons**  
 - Organized internal rounds for **Smart India Hackathon (SIH)**.  
