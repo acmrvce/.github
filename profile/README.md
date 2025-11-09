@@ -5,7 +5,7 @@ ACM RVCE is a vibrant, student-run tech community that thrives on open-source co
 ---
 
 ## 🌟 **Mission**  
-Uniting tech enthusiasts passionate about coding, development, and learning, Point Blank provides a platform for collaborative growth. Members work on impactful projects that foster innovation and skill development.  
+Uniting tech enthusiasts passionate about coding, development, and learning, ACM RVCE provides a platform for collaborative growth. Members work on impactful projects that foster innovation and skill development.  
 
 ---
 
@@ -34,7 +34,7 @@ Uniting tech enthusiasts passionate about coding, development, and learning, Poi
 
 ## 🛠️ **Domains of Expertise**  
 
-Point Blank excels in a diverse range of tech domains:  
+ACM RVCE excels in a diverse range of tech domains:  
 
 - 🤹 **Competitive Programming** (*ACM ICPC, Kaggle*)  
 - 🌐 **IoT & ML Development**  
